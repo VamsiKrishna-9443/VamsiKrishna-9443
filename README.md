@@ -12,6 +12,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;ISRO+Intern🚀;DSA+Enthusiast;Future+Software+Engineer" />
 </p>
 
+<!-- 👀 PROFILE VIEWS -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VamsiKrishna-9443&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,java,python,mysql,html,css" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me
@@ -30,20 +44,12 @@
 
 ---
 
-## 💻 Tech Stack (MERN Focus)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,java,python,mysql,html,css" />
-</p>
-
----
-
 ## 🚀 What I Do
 
 * 💻 MERN Stack Web Development
-* ⚙️ Building Scalable Backend APIs
-* 🧠 Problem Solving (DSA - Striver Sheet)
-* 🛰️ Experience from ISRO SHAR Internship
+* ⚙️ Backend API Development
+* 🧠 Problem Solving (DSA)
+* 🛰️ ISRO SHAR Internship Experience
 
 ---
 
@@ -64,18 +70,18 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/VamsiKrishna_1906?theme=dark&font=baloo&ext=contest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VamsiKrishna-9443&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://github.com/VamsiKrishna-9443/VamsiKrishna-9443/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://leetcard.jacoblin.cool/VamsiKrishna_1906?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
@@ -85,7 +91,13 @@
 * 🚀 MERN Stack Developer
 * 🛰️ ISRO Intern (SHAR)
 * 📚 Practicing DSA Daily
-* 🎯 Target: Product-Based Company
+* 🎯 Goal: Product-Based Company
+
+---
+
+## 📩 How to Reach Me
+
+📧 **[vamsikrishna.pedapapa.05@gmail.com](mailto:vamsikrishna.pedapapa.05@gmail.com)**
 
 ---
 
