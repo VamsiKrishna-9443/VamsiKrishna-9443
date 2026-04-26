@@ -44,15 +44,11 @@ Crafting dynamic web apps with the MERN Stack and sharpening my problem-solving 
 </p>
 
 ---
+## 🧠 LeetCode Stats
 
-## 🚀 What I Do
-
-* 💻 MERN Stack Web Development
-* ⚙️ Backend API Development
-* 🧠 Problem Solving (DSA)
-* 🛰️ ISRO SHAR Internship Experience
-
----
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VamsiKrishna_1906?theme=dark&font=baloo&ext=contest" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -71,11 +67,14 @@ Crafting dynamic web apps with the MERN Stack and sharpening my problem-solving 
 
 ---
 
-## 🧠 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/VamsiKrishna_1906?theme=dark&font=baloo&ext=contest" />
-</p>
+---
+## 🚀 What I Do
+
+* 💻 MERN Stack Web Development
+* ⚙️ Backend API Development
+* 🧠 Problem Solving (DSA)
+* 🛰️ ISRO SHAR Internship Experience
 
 ---
 
