@@ -1,10 +1,6 @@
 <!-- 🔥 COOL ANIMATED BANNER -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=200&section=header&text=Vamsi%20Krishna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
+<h1 align="center">Hi 👋, I'm Pedapapa Vamsi Krishna Yadav</h1>
 
 <!-- ✨ INTRO TEXT (LIKE YOUR SCREENSHOT) -->
 
@@ -14,7 +10,7 @@ Crafting dynamic web apps with the MERN Stack and sharpening my problem-solving 
 
 
 <p align="center">
-  <b>MERN Stack Developer</b> • ISRO Intern 🚀 • DSA Enthusiast • Future Software Engineer
+  <b>MERN Stack Developer • ISRO Intern 🚀 • DSA Enthusiast • Future Software Engineer </b>
 </p>
 
 <!-- 👀 PROFILE VIEWS -->
