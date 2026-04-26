@@ -102,8 +102,6 @@ Crafting dynamic web apps with the MERN Stack and sharpening my problem-solving 
 
 ## 💬 Quote
 
-*"I didn’t come this far to only come this far."*
+*"i did it , cause i like it"*
 
 ---
-
-⭐️ From Vamsi Krishna
