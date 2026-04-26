@@ -1,7 +1,7 @@
-<!-- 🔥 BANNER -->
+<!-- 🔥 COOL ANIMATED BANNER -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VamsiKrishna-9443/VamsiKrishna-9443/main/banner.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=200&section=header&text=Vamsi%20Krishna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
@@ -70,14 +70,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VamsiKrishna-9443&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ## 🧠 LeetCode Stats
 
 <p align="center">
@@ -95,9 +87,22 @@
 
 ---
 
+## 📂 Projects
+
+🔗 All of my projects are available at:
+👉 https://github.com/VamsiKrishna-9443
+
+---
+
 ## 📩 How to Reach Me
 
 📧 **[vamsikrishna.pedapapa.05@gmail.com](mailto:vamsikrishna.pedapapa.05@gmail.com)**
+
+---
+
+## 💬 Quote
+
+*"I didn’t come this far to only come this far."*
 
 ---
 
