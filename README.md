@@ -6,10 +6,15 @@
 
 <h1 align="center">Hi 👋, I'm Vamsi Krishna</h1>
 
-<!-- 🔥 TYPING ANIMATION -->
+<!-- ✨ INTRO TEXT (LIKE YOUR SCREENSHOT) -->
+
+<h3 align="center">
+Crafting dynamic web apps with the MERN Stack and sharpening my problem-solving skills on LeetCode through Java.
+</h3>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;ISRO+Intern🚀;DSA+Enthusiast;Future+Software+Engineer" />
+  <b>MERN Stack Developer</b> • ISRO Intern 🚀 • DSA Enthusiast • Future Software Engineer
 </p>
 
 <!-- 👀 PROFILE VIEWS -->
