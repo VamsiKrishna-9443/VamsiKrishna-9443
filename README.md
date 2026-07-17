@@ -10,6 +10,11 @@ Crafting dynamic web apps with the MERN Stack & Java Full Stack, and sharpening 
   <b>MERN Stack Developer • Java Full Stack Developer • ISRO Intern 🚀 • DSA Enthusiast • Future Software Engineer</b>
 </p>
 
+<!-- 👨‍💻 DEVELOPMENT ANIMATION -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
+
 <!-- 👀 PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VamsiKrishna-9443&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -42,12 +47,6 @@ Crafting dynamic web apps with the MERN Stack & Java Full Stack, and sharpening 
 ## 🧠 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/VamsiKrishna_1906?theme=dark&font=baloo&ext=contest" />
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VamsiKrishna-9443&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiKrishna-9443&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
